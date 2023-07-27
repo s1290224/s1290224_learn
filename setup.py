@@ -17,7 +17,6 @@ setuptools.setup(
     install_requires=[
         'pandas',
         'plotly',
-        're',
         'pami',
     ],
     extras_require={
